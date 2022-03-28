@@ -1,6 +1,4 @@
 # sokoban-platformer
-make it better, and finish it!
-
 
 Hey there.. 
 I was the guy who posted this little gif of a "Sokoban Platformer" game 
