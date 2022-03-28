@@ -1,4 +1,4 @@
-# sokoban-platformer
+# Sokoban-platformer
 
 Hey there.. 
 I was the guy who posted this little gif of a "Sokoban Platformer" game 
@@ -15,6 +15,8 @@ kinda..
 
 ya.. Cheers i guess 
 
-[GIF (https://media.discordapp.net/attachments/847562085310660608/940995892356456478/Puzzle_01_2.gif)]
-[First conversation and discussion on the PolyMars discord server (https://discord.com/channels/737424572902801510/804023549990797352/941075677778673664)]
-[Source code (https://github.com/DanuVIP/sokoban-platformer/)]
+
+[First conversation and discussion on the PolyMars discord server](https://discord.com/channels/737424572902801510/804023549990797352/941075677778673664)\
+[Source code](https://github.com/DanuVIP/sokoban-platformer/)
+
+<img src="https://media.discordapp.net/attachments/847562085310660608/940995892356456478/Puzzle_01_2.gif" width="200" height="200">
